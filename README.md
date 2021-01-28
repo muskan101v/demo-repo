@@ -1,3 +1,3 @@
 # Demo
 
-Learn GIT and Github coomands
+Learn GIT and Github coomands!
